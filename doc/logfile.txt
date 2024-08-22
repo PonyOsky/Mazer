@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+G:\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+G:\Greenfoot\lib\extensions\greenfoot.jar;G:\Greenfoot\lib\bluejcore.jar;G:\Greenfoot\lib\bluejeditor.jar;G:\Greenfoot\lib\bluejext.jar;G:\Greenfoot\lib\junit-4.11.jar;G:\Greenfoot\lib\hamcrest-core-1.3.jar;G:\Greenfoot\lib\bluej.jar;G:\Greenfoot\lib\classgraph-4.2.6.jar;G:\Greenfoot\lib\diffutils-1.2.1.jar;G:\Greenfoot\lib\commons-logging-api-1.1.2.jar;G:\Greenfoot\lib\jl1.0.1.jar;G:\Greenfoot\lib\opencsv-2.3.jar;G:\Greenfoot\lib\xom-1.2.9.jar;G:\Greenfoot\lib\lang-stride.jar;G:\Greenfoot\lib\nsmenufx-2.1.4.jar;G:\Greenfoot\lib\richtextfx-fat-0.9.0.jar;G:\Greenfoot\lib\guava-17.0.jar;G:\Greenfoot\lib\httpclient-4.1.1.jar;G:\Greenfoot\lib\httpcore-4.1.jar;G:\Greenfoot\lib\httpmime-4.1.1.jar;G:\Greenfoot\lib\javafx\lib\javafx.base.jar;G:\Greenfoot\lib\javafx\lib\javafx.controls.jar;G:\Greenfoot\lib\javafx\lib\javafx.fxml.jar;G:\Greenfoot\lib\javafx\lib\javafx.graphics.jar;G:\Greenfoot\lib\javafx\lib\javafx.media.jar;G:\Greenfoot\lib\javafx\lib\javafx.properties.jar;G:\Greenfoot\lib\javafx\lib\javafx.swing.jar;G:\Greenfoot\lib\javafx\lib\javafx.web.jar;C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer
+-d
+C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\Key.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\Key.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\Key.html...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\package-summary.html...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\allclasses.html...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\allclasses.html...
+Generating C:\Users\ondre\Desktop\škola\PRO\GreenFoot-Games\Mazer\doc\index.html...
+2 warnings
